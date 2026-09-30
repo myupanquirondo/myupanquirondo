@@ -1,12 +1,6 @@
-<div align="center">
-
-# Hi, I'm Miguel Yupanqui 👋
-
-### Systems Engineering | Data & Machine Learning | MLOps
-
-Building Machine Learning projects and learning how to take models from experimentation to production.
-
-</div>
+<p align="center">
+  <img src="assets/github-banner.png" alt="Miguel Yupanqui - Data, Machine Learning and MLOps" width="100%">
+</p>
 
 ---
 
@@ -28,9 +22,15 @@ Building Machine Learning projects and learning how to take models from experime
 **MLOps & Cloud**
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Development & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -38,7 +38,7 @@ Building Machine Learning projects and learning how to take models from experime
 
 ### 🔧 Predictive Maintenance MLOps
 
-Machine Learning and MLOps platform for industrial predictive maintenance using the AI4I 2020 dataset.
+Machine Learning and MLOps platform for industrial predictive maintenance using the **AI4I 2020** dataset.
 
 `Python` `scikit-learn` `XGBoost` `MLflow` `Azure ML` `Databricks`
 
@@ -53,8 +53,8 @@ Machine Learning and MLOps platform for industrial predictive maintenance using 
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myupanquirondo&show_icons=true&hide_border=true&theme=github_dark)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=myupanquirondo&show_icons=true&hide_border=true&theme=github_dark" alt="Miguel Yupanqui GitHub Stats">
+</p>
